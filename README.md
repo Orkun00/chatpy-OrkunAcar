@@ -6,13 +6,9 @@ Server
 Open your terminal.
 Navigate to the directory where the server.py file is located using the cd command:
 
-shell
-
 cd /path/to/your/directory
 
 Run the server by executing the following command:
-
-shell
 
     python3 server.py
 
