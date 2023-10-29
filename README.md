@@ -15,15 +15,14 @@ Run the server by executing the following command:
 
 Client:
 
- Open a new terminal window.
+Open a new terminal window.
 
 Navigate to the directory where the client.py file is located:
 
-cd /path/to/your/directory
+    cd /path/to/your/directory
 
 Run the client by executing:
 
-shell
 
     python3 client.py
 
