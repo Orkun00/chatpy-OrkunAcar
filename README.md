@@ -6,8 +6,11 @@
 
 ## Prerequisites
 
-Before getting started, ensure that you have Python 3 installed. If you don't have Python 3, you can download it from the [official Python website](https://www.python.org/downloads/).
+Before getting started, ensure that you have Python 3 installed. If you don't have Python 3, you can download it from the [official Python website](https://www.python.org/downloads) or install it on a Linux system using the following command:
 
+```shell
+sudo apt update
+sudo apt install python3
 ## Setup and Usage
 
 ### Server Setup
