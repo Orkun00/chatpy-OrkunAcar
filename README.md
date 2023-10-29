@@ -12,9 +12,8 @@
    ```shell
    cd /path/to/your/directory
 
-    Run the server by executing the following command:
+Run the server by executing the following command:
 
-    shell
 
     python3 server.py
 
