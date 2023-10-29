@@ -25,7 +25,7 @@ def receive():
             client.close()
             break
 
-# Function to continuously prompt the user for input (messages to send)
+# Function to continuously prompt the user for input (messages to send) 
 def write():
     while True:
         message = '{}: {}'.format(nickname, input(''))
