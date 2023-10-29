@@ -28,7 +28,7 @@ Run the client by executing:
 
     python3 client.py
 
-<Chatting>
+Chatting:
 
 Choose a nickname when prompted by the client.
 Start sending and receiving messages with other connected clients.
