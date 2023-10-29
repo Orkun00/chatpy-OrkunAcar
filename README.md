@@ -1,6 +1,7 @@
 # TerminalChat
 Chat Application with Python
 Setup and Usage
+
 Server:
 
 Open your terminal.
