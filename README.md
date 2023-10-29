@@ -36,7 +36,7 @@ Start sending and receiving messages with other connected clients.
 
 
 
-dditional Security Considerations:
+Additional Security Considerations:
 
 Before you start using the chat application, it's important to be aware of certain security considerations:
 
