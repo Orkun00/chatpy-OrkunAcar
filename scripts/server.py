@@ -2,10 +2,11 @@ import socket
 import threading
 
 # Server configuration
+#Also if you want this chat to be used by different devices you can go with 0.0.0.0 type of ip adress but it will be unsecure so be careful when using it
 host = '127.0.0.1'
 port = 8765
 
-# Create a socket instance for the server
+# Creating a socket instance for the server
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server.bind((host, port))
 server.listen()
