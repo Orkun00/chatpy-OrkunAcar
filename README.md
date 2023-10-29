@@ -63,6 +63,7 @@ Security Considerations
       Consider implementing secure data storage and access control mechanisms for chat history.
 
 Keep these security considerations in mind, and consider additional security measures for production or security-sensitive environments.
+#Also if you want this chat to be used by different devices you can go with 0.0.0.0 type of ip adress but it will be unsecure so be careful when using it
 
 Enjoy chatting with TerminalChat!
 
