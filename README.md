@@ -48,7 +48,7 @@ Chatting
 
 Security Considerations
 
-!!If you want this chat to be used by different devices you can go with 0.0.0.0 type of ip adress but it will be unsecure so be careful when using it!! 
+!!  If you want this chat to be used by different devices you can go with 0.0.0.0 type of ip adress but it will be unsecure so be careful when using it  !! 
 
      Before you get started, please be aware of these security considerations:
 
