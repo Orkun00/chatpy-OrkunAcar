@@ -37,6 +37,8 @@ Chatting:
 Additional Security Considerations
 
 
+
+
 Before you start using the chat application, it's important to be aware of certain security considerations:
 
 Lack of Encryption: Messages sent and received in this chat application are not encrypted. As a result, they can potentially be intercepted and read by malicious parties. To enhance security and privacy, consider implementing encryption mechanisms in your application.
