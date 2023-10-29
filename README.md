@@ -14,11 +14,9 @@ Run the server by executing the following command:
 
 Client
 
-    Open a new terminal window.
+ Open a new terminal window.
 
-    Navigate to the directory where the client.py file is located:
-
-    shell
+Navigate to the directory where the client.py file is located:
 
 cd /path/to/your/directory
 
