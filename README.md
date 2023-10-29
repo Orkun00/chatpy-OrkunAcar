@@ -31,10 +31,12 @@ Run the client by executing:
 Chatting:
 
 Choose a nickname when prompted by the client.
+
 Start sending and receiving messages with other connected clients.
 
 
-Additional Security Considerations
+
+dditional Security Considerations:
 
 Before you start using the chat application, it's important to be aware of certain security considerations:
 
