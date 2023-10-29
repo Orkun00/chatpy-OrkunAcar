@@ -8,14 +8,14 @@ Welcome to TerminalChat, a simple chat application with Python. This application
 
 ### Server Setup
 
-1. **Open your terminal.**
+**Open your terminal.**
 
-2. **Navigate to the directory where `server.py` is located:**
+**Navigate to the directory where `server.py` is located:**
    
 
-   cd /path/to/your/directory
+      cd /path/to/your/directory
 
-    Start the server:
+Start the server:
 
 
 
