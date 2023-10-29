@@ -12,12 +12,12 @@ Welcome to TerminalChat, a simple chat application with Python. This application
 
 2. **Navigate to the directory where `server.py` is located:**
    
-   ```shell
+
    cd /path/to/your/directory
 
     Start the server:
 
-    shell
+
 
     python3 server.py
 
