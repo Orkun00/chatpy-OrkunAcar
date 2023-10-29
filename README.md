@@ -3,11 +3,10 @@ Chat Application with Python
 Setup and Usage
 Server
 
-    Open your terminal.
+Open your terminal.
+Navigate to the directory where the server.py file is located using the cd command:
 
-    Navigate to the directory where the server.py file is located using the cd command:
-
-    shell
+shell
 
 cd /path/to/your/directory
 
