@@ -21,7 +21,7 @@ Start the server:
 
     python3 server.py
 
-Client Setup
+###Client Setup###
 
     Open a new terminal window.
 
