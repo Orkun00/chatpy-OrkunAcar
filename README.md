@@ -44,13 +44,17 @@ Security Considerations
 
   Before you get started, please be aware of these security considerations:
 
-   Lack of Encryption: Messages are not encrypted and may be intercepted. Consider adding encryption for enhanced security.
+      Lack of Encryption: Messages are not encrypted and may be intercepted. 
+      Consider adding encryption for enhanced security.
 
-   Denial of Service Vulnerabilities: This server is vulnerable to DoS attacks. Implement rate limiting and request handling for production environments.
+      Denial of Service Vulnerabilities: This server is vulnerable to DoS attacks. 
+      Implement rate limiting and request handling for production environments.
 
-   No Authentication or Authorization: The system does not verify client identities. Implement user authentication and authorization for enhanced security.
+      No Authentication or Authorization: The system does not verify client identities. 
+      Implement user authentication and authorization for enhanced security.
 
-   Data Safety: Chat history can be viewed by anyone with access to a client's command line. Consider implementing secure data storage and access control mechanisms for chat history.
+      Data Safety: Chat history can be viewed by anyone with access to a client's command line. 
+      Consider implementing secure data storage and access control mechanisms for chat history.
 
 Keep these security considerations in mind, and consider additional security measures for production or security-sensitive environments.
 
