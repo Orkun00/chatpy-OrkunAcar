@@ -9,8 +9,7 @@
 1. Open your terminal.
 2. Navigate to the directory where the `server.py` file is located using the `cd` command:
 
-   ```shell
-   cd /path/to/your/directory
+      cd /path/to/your/directory
 
 Run the server by executing the following command:
 
