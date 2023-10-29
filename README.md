@@ -2,7 +2,11 @@
 
 ## Chat Application with Python
 
-Welcome to TerminalChat, a simple chat application with Python. This application allows you to chat with others on your local machine using the terminal.
+**Welcome to TerminalChat**, a simple chat application with Python. This application allows you to chat with others on your local machine using the terminal.
+
+## Prerequisites
+
+Before getting started, ensure that you have Python 3 installed. If you don't have Python 3, you can download it from the [official Python website](https://www.python.org/downloads/).
 
 ## Setup and Usage
 
