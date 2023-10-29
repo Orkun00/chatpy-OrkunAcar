@@ -1,7 +1,7 @@
 # TerminalChat
 Chat Application with Python
 Setup and Usage
-Server
+Server:
 
 Open your terminal.
 Navigate to the directory where the server.py file is located using the cd command:
@@ -12,7 +12,7 @@ Run the server by executing the following command:
 
     python3 server.py
 
-Client
+Client:
 
  Open a new terminal window.
 
