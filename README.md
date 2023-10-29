@@ -42,7 +42,7 @@ Chatting
 
 Security Considerations
 
-  Before you get started, please be aware of these security considerations:
+     Before you get started, please be aware of these security considerations:
 
       Lack of Encryption: Messages are not encrypted and may be intercepted. 
       Consider adding encryption for enhanced security.
