@@ -8,7 +8,7 @@ Welcome to TerminalChat, a simple chat application with Python. This application
 
 ### Server Setup
 
-      **Open your terminal.**
+**Open your terminal.**
 
 **Navigate to the directory where `server.py` is located:**
    
@@ -36,9 +36,9 @@ Run the client:
 
 Chatting
 
-   Choose a nickname when prompted by the client.
+        Choose a nickname when prompted by the client.
 
-   Start sending and receiving messages with other connected clients.
+        Start sending and receiving messages with other connected clients.
 
 Security Considerations
 
